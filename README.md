@@ -42,3 +42,6 @@ Only 30% of companies are taking full advantage of using multiple strategic Gen
 Venture Capitalist David Sacks Debuts Work-Oriented AI Chat Platform Glue
 Podcaster and venture capitalist David Sacks launched a business-oriented artificial intelligence firm dubbed Glue.
 “Glue takes the best of both worlds from AI chat platforms like ChatGPT and human chat platforms like Slack,” Sacks and Co-founder Evan Owen wrote in a company blog post Tuesday (May 14), the same day the platform debuted. “The result is a new tool built for the way people want to collaborate today, with both their colleagues and AI in one place.”
+![Uploading 下载.png…]()
+![images](https://github.com/M701q/AI/assets/169867430/d07bf70e-608c-4d2b-bcb5-0c3815ecebcc)
+![best-ai-chatbot](https://github.com/M701q/AI/assets/169867430/13c77f61-8c7b-485f-9b35-fdadd3972445)
